@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="commonTextColor">#121621</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_layout_line">#ececec</color>
+    <color name="color_profile_detail_title">#a2a2a2</color>
+    <color name="color_profile_detail_content">#121621</color>
+    <color name="color_reject">#a2a2a2</color>
+    <color name="color_agree">#FFFFFF</color>
+</resources>

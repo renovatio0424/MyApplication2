@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">프로필</string>
+    <string name="phone_confirmation">전화번호 인증됨</string>
+    <string name="school">학교</string>
+    <string name="job">직업</string>
+    <string name="self_intro">내 소개</string>
+    <string name="religion">종교</string>
+    <string name="alchol">음주</string>
+    <string name="smoke">흡연</string>
+</resources>
